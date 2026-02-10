@@ -27,7 +27,7 @@ Here are some of my projects:
   - Dynamic questions and score calculation  
 
 - 🔹 **React Project**
-  - Built using React components and state  
+  - Built using React components, state, props, basic UI
   - Practicing props and basic React concepts  
 
 👉 Check all my repositories here:  
