@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Shrook Kurdi
 
-<!--
-**shrook-kurdi/Shrook-Kurdi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer (Junior)  
+🌱 Currently learning and building projects with **HTML, CSS, JavaScript, and React**  
+🎯 My goal is to work as a Front-End Developer and keep improving my skills through real projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML5
+- CSS3 (Flexbox, Responsive Design)
+- JavaScript (ES6)
+- React.js (Basics)
+- Git & GitHub
+
+---
+
+## 📂 Projects
+Here are some of my projects:
+
+- 🔹 **Landing Page**
+  - Responsive landing page using HTML & CSS  
+  - Clean UI and simple layout  
+
+- 🔹 **Quiz Application**
+  - Built with JavaScript  
+  - Dynamic questions and score calculation  
+
+- 🔹 **React Project**
+  - Built using React components and state  
+  - Practicing props and basic React concepts  
+
+👉 Check all my repositories here:  
+[My GitHub Repositories](https://github.com/shrook-kurdi?tab=repositories)
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/shrook-kurdi  
+- LinkedIn: https://eg.linkedin.com/in/shrook-kordi-1b10b1268
+
+---
+
+✨ I'm always learning and excited to improve my skills and work on real projects!
